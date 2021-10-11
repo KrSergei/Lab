@@ -1,0 +1,7 @@
+G:\VeeamTask\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+G:\VeeamTask\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+G:\VeeamTask\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+G:\VeeamTask\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+G:\VeeamTask\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+G:\VeeamTask\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+G:\VeeamTask\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
