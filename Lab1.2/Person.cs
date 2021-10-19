@@ -20,5 +20,10 @@ namespace Lab1._2
         {
             Console.WriteLine($" {_personID} recived meaasage: {e.Message}");
         } 
+
+        void Unsubscribe(Publisher pub)
+        {
+            pub.RewardEvent -= HandleRewardEvent;
+        }
     }
 }
