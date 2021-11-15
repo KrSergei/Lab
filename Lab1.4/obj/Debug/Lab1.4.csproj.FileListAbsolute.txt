@@ -1,0 +1,7 @@
+C:\Users\S\source\repos\UNITY\Lab\Lab1.4\bin\Debug\Lab1.4.exe.config
+C:\Users\S\source\repos\UNITY\Lab\Lab1.4\bin\Debug\Lab1.4.exe
+C:\Users\S\source\repos\UNITY\Lab\Lab1.4\bin\Debug\Lab1.4.pdb
+C:\Users\S\source\repos\UNITY\Lab\Lab1.4\obj\Debug\Lab1.4.csproj.AssemblyReference.cache
+C:\Users\S\source\repos\UNITY\Lab\Lab1.4\obj\Debug\Lab1.4.csproj.CoreCompileInputs.cache
+C:\Users\S\source\repos\UNITY\Lab\Lab1.4\obj\Debug\Lab1.4.exe
+C:\Users\S\source\repos\UNITY\Lab\Lab1.4\obj\Debug\Lab1.4.pdb
